@@ -1,0 +1,1 @@
+This project aims to predict the author of a book based on the frequency distribution of the vocabulary used. Support vector machines were used and optimized for each case. Option 0  builds a regular  ML model. Option 1 utilizes Linear Discriminant Analysis(LDA) for dimensionality reduction. Option 2 utilizes Principal Component Analysis(PCA).
